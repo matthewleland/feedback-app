@@ -146,10 +146,8 @@ input:focus {
 }
 
 .btn {
-  color: #fff;
-  border: 0;
-  border-radius: 8px;
-  color: #fff;
+  border: 2;
+  border-radius: 50px;
   width: 100px;
   height: 40px;
   cursor: pointer;
@@ -157,10 +155,12 @@ input:focus {
 
 .btn-primary {
   background-color: #202142;
+  color: #fff;
 }
 
 .btn-secondary {
   background: #ff6a95;
+  color: #202142;
 }
 
 .btn:hover {
