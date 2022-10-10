@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 3,
+      "text": "Today at chick fil a my biscuit took over 10 minutes. I am furious and would like to speak to a director immediately. Who trains these useless workers??"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "My experience at Chick Fil A Azusa today was satisfactory. To be honest the fries were cold, but a pretty girl once told me it's a hassle to make well done fries."
+    },
+    {
+      "text": "God bless you if this isn't the most delicious god damn sandwhich I've ever had. God bless you and your Christian chicken",
+      "rating": 10,
+      "id": 3
+    }
+  ]
+}
