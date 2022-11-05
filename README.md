@@ -12,7 +12,7 @@ https://github.com/bradtraversy/feedback-app
 
 In the project directory, you can run:
 
-### 'npm run dev'
+### `npm run dev`
 
 Concurrently runs the two following commands:
 
