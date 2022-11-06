@@ -2,18 +2,18 @@
   "feedback": [
     {
       "id": 1,
-      "rating": 3,
-      "text": "Today at chick fil a my biscuit took over 10 minutes. I am furious and would like to speak to a director immediately. Who trains these useless workers??"
+      "rating": 8,
+      "text": "I had a good time shopping for new clothes today. Matthew helped find me the right size of shoe, and even though it was his first day on the job, I can tell he is going to be really good at this."
     },
     {
       "id": 2,
-      "rating": 8,
-      "text": "My experience at Chick Fil A Azusa today was satisfactory. To be honest the fries were cold, but a pretty girl once told me it's a hassle to make well done fries."
+      "rating": 10,
+      "text": "My experience at Vans Glendora today was excellent. I only went in for a pair of socks, but this incredibly handsome and talented gentleman named Matthew convinced me to purchase over $500 worth of shoes"
     },
     {
-      "text": "God bless you if this isn't the most delicious god damn sandwhich I've ever had. God bless you and your Christian chicken",
-      "rating": 10,
-      "id": 3
+      "id": 3,
+      "rating": 3,
+      "text": "I was very disappointed today to hear that Matthew, my favorite Vans shoe salesman, no longer works here. Apparently he got a job doing software development, but this place just isn't the same without him"
     }
   ]
 }
