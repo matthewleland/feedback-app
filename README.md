@@ -2,11 +2,10 @@
 
 ## Project Summary
 
-This is a sample feedback application built following Brad Traversy's 'React Front to Back' course on Udemy.
+This is a sample feedback application built using React. It simulates a feedback form experience for the Vans store at which I used to work.
 
+Inspired by the feedback project found on Brad Traversy's 'React Front to Back' course on Udemy:
 https://www.udemy.com/course/react-front-to-back-2022/
-
-https://github.com/bradtraversy/feedback-app
 
 ## Available Scripts
 
