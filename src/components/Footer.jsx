@@ -18,7 +18,7 @@ function Header({ text, bgColor, textColor }) {
 Header.defaultProps = {
   text: 'Off the Wall since 1966.',
   bgColor: 'rgba(0,0,0,0.4)',
-  textColor: '#ff6a95',
+  textColor: '#DAFDBA',
 }
 
 Header.propTypes = {

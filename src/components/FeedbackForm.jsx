@@ -57,8 +57,8 @@ function FeedbackForm() {
       <div className='input-group'>
         <input
           onChange={handleInput}
-          type='text'
-          placeholder='write your review . . .'
+          type='text-box'
+          placeholder='Write your review . . .'
           value={text}
         />
         <Button type='submit' version='primary' isDisabled={btnDisabled}>Submit</Button>

@@ -18,7 +18,7 @@ function Header({ text, bgColor, textColor }) {
 Header.defaultProps = {
   text: 'Vans Glendora',
   bgColor: 'rgba(0,0,0,0.4)',
-  textColor: '#ff6a95',
+  textColor: '#DAFDBA',
 }
 
 Header.propTypes = {
